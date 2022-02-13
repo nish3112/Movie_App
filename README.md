@@ -1,6 +1,8 @@
 # movie_app
 
-A new Flutter project.
+Basic flutter app that allows a user to add movie name and director name along with a poster which are all stored in database using sqflite.
+All the CRUD operations are performed.
+Authentication with email/password using Firebase is also integrated
 
 ## Getting Started
 
